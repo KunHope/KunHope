@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Patipol Damthong</h1>
 <h3 align="left">I'm beginner coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunhope&label=Profile%20views&color=0e75b6&style=flat" alt="kunhope" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
