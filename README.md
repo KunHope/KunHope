@@ -50,7 +50,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<p>
+<!--<p>
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=kunhope&show_icons=true&locale=en" 
        alt="kunhope" />
@@ -60,7 +60,7 @@
   <img align="center" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=kunhope&" 
        alt="kunhope" />
-</p>
+</p>-->
 
 <!-- Social Links -->
 <h3 align="left">My social:</h3>
